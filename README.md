@@ -58,7 +58,7 @@ Flask or Streamlit (for frontend app)
 Installation:
 
 Clone the project:
-git clone https://github.com/yourusername/Heart-Disease-Detector.git
+git clone https://github.com/Myhfuz88Sk/Heart-Disease-Detector.git
 
 Navigate to the folder:
 cd Heart-Disease-Detector
